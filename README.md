@@ -2,7 +2,7 @@
 
 ###[Video demo] (https://youtu.be/EfGZkrhv958 "Vball")###
 
-**Chu 2 Plus** is a integrated toolkit with severn basic functions for saving your time
+**Chu 2 Plus** is a integrated toolkit with seven basic functions for saving your time
 
 ## Screenshots ##
 ![](/img/screenshots/Main.png "Main Interface")
