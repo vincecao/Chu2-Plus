@@ -18,10 +18,8 @@
 ![](/img/screenshots/Catch Fish_Chicken Blood.png "Chicken Blood")
 ![](/img/screenshots/Catch Fish_Catch Fish.png "Catch Fish")
 
-### Catch Fish ###
-*For counting the time that you stay your mouse in the panel and concentrate on your work*
-![](/img/screenshots/Catch Fish_Chicken Blood.png "Chicken Blood")
-![](/img/screenshots/Catch Fish_Catch Fish.png "Catch Fish")
+### Exchange Currancy ###
+![](/img/screenshots/Exchange Currancy.png "Exchange Currancy")
 
 ### Notepad ###
 ![](/img/screenshots/Notepad.png "Notepad")
