@@ -28,6 +28,6 @@
 ![](/img/screenshots/Gallery.png "Gallery")
 ![](/img/screenshots/Gallery_demo.png "Gallery_demo")
 
-*Made by: [Yifan He](http://malmal.applinzi.com "Maldini Yifan He")& Vince Cao @2014*
+*Coded by: [Yifan He](http://malmal.applinzi.com "Maldini Yifan He")& Vince Cao @2014*
 
 *See the details in [GitHub](https://github.com/vincecao/Chu2-Plus "GitHub")*
