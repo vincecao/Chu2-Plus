@@ -8,13 +8,14 @@
 ![](/img/screenshots/Main.png "Main Interface")
 
 ### Maldini's Calculus ###
-![](/img/screenshots/Maldini's Calculus.png "Maldini's Calculus")
+![](/img/screenshots/Maldini's%20Calculus.png "Maldini's Calculus")
 
 ### Clock ###
 ![](/img/screenshots/Clock.png "Clock")
 
 ### Catch Fish ###
 *For counting the time that you stay your mouse in the panel and concentrate on your work*
+
 ![](/img/screenshots/Catch Fish_Chicken Blood.png "Chicken Blood")
 ![](/img/screenshots/Catch Fish_Catch Fish.png "Catch Fish")
 
