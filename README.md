@@ -1,6 +1,6 @@
 # Chu2-Plus
 
-###[Video demo] (https://youtu.be/EfGZkrhv958 "Vball")###
+### [Video demo](https://youtu.be/EfGZkrhv958 "Vball")
 
 **Chu 2 Plus** is a integrated toolkit with seven basic functions for saving your time
 
